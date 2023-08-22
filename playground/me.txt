@@ -1,5 +1,0 @@
-{{#user}}
-Name: Rashmi Kumari
-Skills: HTML, CSS, JS, Next.js, GIT, React, Python, C, MySql
-Email: rashmioff0708@gmail.com
-{{/user}}
